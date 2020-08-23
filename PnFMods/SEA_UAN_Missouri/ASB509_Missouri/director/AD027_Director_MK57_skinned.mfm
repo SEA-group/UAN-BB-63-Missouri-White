@@ -1,0 +1,19 @@
+<AD027_Director_MK57_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.80000	</Float>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/director/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/director/AD027_Director_MK57_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/director/AD027_Director_MK57_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/director/AD027_Director_MK57_n.dds	</Texture>
+	</property>
+</AD027_Director_MK57_skinned.mfm>

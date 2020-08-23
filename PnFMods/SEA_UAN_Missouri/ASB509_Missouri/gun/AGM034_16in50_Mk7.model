@@ -1,0 +1,7 @@
+<AGM034_16in50_Mk7.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/gun/AGM034_16in50_Mk7_lod1	</parent>
+	<extent>	6.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/gun/AGM034_16in50_Mk7	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGM034_16in50_Mk7.model>
