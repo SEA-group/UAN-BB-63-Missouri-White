@@ -1,8 +1,8 @@
 # UAN BB-63 Missouri White
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group//UAN-BB-63-Missouri-White?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group//UAN-BB-63-Missouri-White)
-![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group//UAN-BB-63-Missouri-White)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/UAN-BB-63-Missouri-White?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/UAN-BB-63-Missouri-White)
+![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/UAN-BB-63-Missouri-White)
 
 Skin modification for tier 9 battleship **Missouri**. 
 
