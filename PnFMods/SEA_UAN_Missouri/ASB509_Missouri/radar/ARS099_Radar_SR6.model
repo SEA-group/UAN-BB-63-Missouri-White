@@ -1,6 +1,6 @@
 <ARS099_Radar_SR6.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/radar/ARS099_Radar_SR6_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/radar/lods/ARS099_Radar_SR6_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/radar/ARS099_Radar_SR6	</nodefullVisual>
 	<animation>

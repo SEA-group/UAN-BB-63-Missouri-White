@@ -1,6 +1,6 @@
 <AGA056_40mm_Bofors.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/gun/AGA056_40mm_Bofors_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/gun/lods/AGA056_40mm_Bofors_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/gun/AGA056_40mm_Bofors	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

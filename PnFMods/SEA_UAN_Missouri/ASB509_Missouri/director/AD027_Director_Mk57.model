@@ -1,6 +1,6 @@
 <AD027_Director_Mk57.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/director/AD027_Director_Mk57_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/director/lods/AD027_Director_Mk57_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/director/AD027_Director_Mk57	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

@@ -1,6 +1,6 @@
 <ARF021_Radar_Mk27.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/radar/ARF021_Radar_Mk27_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/radar/lods/ARF021_Radar_Mk27_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/radar/ARF021_Radar_Mk27	</nodefullVisual>
 	<animation>
