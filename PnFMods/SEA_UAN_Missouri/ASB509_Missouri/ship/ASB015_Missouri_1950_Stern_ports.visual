@@ -192,7 +192,7 @@
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.4335 -6.7875 1.0000	</row3>
+					<row3>	0.0000 0.4037 -6.7436 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -201,7 +201,7 @@
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	-0.9620 0.1550 -5.2690 1.0000	</row3>
+					<row3>	-0.9545 0.1522 -5.2662 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -210,7 +210,25 @@
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.9620 0.1550 -5.2690 1.0000	</row3>
+					<row3>	0.9570 0.1550 -5.2674 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_RepairLight_left_2	</identifier>
+				<transform>
+					<row0>	-0.0326 0.0000 0.9995 0.0000	</row0>
+					<row1>	-0.3028 0.9530 -0.0099 0.0000	</row1>
+					<row2>	-0.9525 -0.3030 -0.0311 0.0000	</row2>
+					<row3>	-1.0551 0.3957 -4.8786 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_RepairLight_right_1	</identifier>
+				<transform>
+					<row0>	-0.0645 0.0000 -0.9979 0.0000	</row0>
+					<row1>	0.3171 0.9482 -0.0205 0.0000	</row1>
+					<row2>	0.9462 -0.3178 -0.0611 0.0000	</row2>
+					<row3>	1.0024 0.4011 -5.7931 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -220,6 +238,42 @@
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
 					<row3>	0.0000 0.0000 -8.7681 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.6658 -0.3983 -6.5177 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.2395 -0.4320 -7.0957 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.6658 -0.3983 -6.5181 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_4	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.2394 -0.4321 -7.0957 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
