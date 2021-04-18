@@ -57,7 +57,7 @@
 			<primitive>	Bofors_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	TL2_SHIPWIRE_PBS_Gun	</identifier>
+					<identifier>	TL2_SHIPWIREX_PBS_Gun	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/gun/AGA056_40mm_Bofors_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

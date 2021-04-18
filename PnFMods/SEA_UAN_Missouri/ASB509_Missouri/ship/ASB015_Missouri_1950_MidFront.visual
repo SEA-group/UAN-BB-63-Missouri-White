@@ -273,7 +273,7 @@
 			<primitive>	MidFront_patch_MidBack_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/ship/ASB015_Missouri_1950_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -287,7 +287,7 @@
 			<primitive>	MidFront_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/ship/ASB015_Missouri_1950_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -301,7 +301,7 @@
 			<primitive>	MidFront_wire_flagfalShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/ship/ASB015_Missouri_1950_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
