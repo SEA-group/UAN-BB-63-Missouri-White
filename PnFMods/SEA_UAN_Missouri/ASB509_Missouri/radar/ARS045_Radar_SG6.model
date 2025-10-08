@@ -1,17 +1,8 @@
 <ARS045_Radar_SG6.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/radar/lods/ARS045_Radar_SG6_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/radar/ARS045_Radar_SG6	</nodefullVisual>
-	<animation>
-		<name>	Rotation5rpm	</name>
-		<frameRate>	30.0000	</frameRate>
-		<nodes>	content/animation/common/Rotation5rpm	</nodes>
-	</animation>
-	<action>
-		<name>	idle	</name>
-		<animation>	Rotation5rpm	</animation>
-		<filler>	true	</filler>
-	</action>
+	<visual>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/radar/ARS045_Radar_SG6.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/ARS045_Radar_SG6/ARS045_Radar_SG6.ssm	</animation>
+	</animations>
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </ARS045_Radar_SG6.model>

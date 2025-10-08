@@ -1,7 +1,6 @@
 <AD018_Director_Mk38.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/director/lods/AD018_Director_Mk38_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/director/AD018_Director_Mk38	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/director/AD018_Director_Mk38.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </AD018_Director_Mk38.model>

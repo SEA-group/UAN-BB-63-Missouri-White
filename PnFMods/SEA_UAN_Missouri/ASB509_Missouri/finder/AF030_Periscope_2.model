@@ -1,7 +1,6 @@
 <AF030_Periscope_2.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/finder/lods/AF030_Periscope_2_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/finder/AF030_Periscope_2	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_Missouri/ASB509_Missouri/finder/AF030_Periscope_2.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </AF030_Periscope_2.model>
